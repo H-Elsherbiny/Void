@@ -1,0 +1,5 @@
+Exoplanet_ensemble_model ->trained on all 94%
+Exoplanet_candidate_ensemble_model ->only confirmed and FP 99.5
+kepler_test1_ensemble_model->turned 400 candidate into confirmed 99.2
+kepler_test2_ensemble_model->turned 700 candidate into confirmed 99.3
+Each with label encoder with same name
